@@ -17,7 +17,7 @@ const systems = [
     color: 'from-slate-800 to-slate-900',
   },
   {
-    title: 'Sistema de Gestor de Citas Psicológicas',
+    title: 'Sistema de Gestion de Citas Psicológicas',
     description:
       'Administración y seguimiento de citas de atención psicológica',
     icon: Calendar,
