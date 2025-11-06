@@ -25,14 +25,15 @@ const systems = [
     color: 'from-red-900 to-red-950',
   },
   {
-    title: 'Sistema de Registro de Atención al Cliente',
-    description: 'Control y seguimiento de solicitudes y atención al usuario',
+    title: 'Sistema de Atención al Cliente',
+    description:
+      'Control y seguimiento de solicitudes y atención al usuario interesado en CEPRUNSA',
     icon: Headphones,
     href: 'https://registro-atencion-cliente-cpu.vercel.app/',
     color: 'from-slate-700 to-slate-800',
   },
   {
-    title: 'Sistema de Administración de Horarios',
+    title: 'Sistema de Asignacion de Horarios',
     description:
       'Planificación y gestión de horarios académicos y administrativos',
     icon: Clock,
