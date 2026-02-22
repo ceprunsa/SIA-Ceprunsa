@@ -33,9 +33,8 @@ const systems = [
     color: 'from-slate-700 to-slate-800',
   },
   {
-    title: 'Sistema de Asignacion de Horarios',
-    description:
-      'Planificación y gestión de horarios académicos y administrativos',
+    title: 'SISPAD - Sistema de Supervisión y Planificación Académica Docente',
+    description: 'Planificación, gestión y seguimiento de horarios académicos',
     icon: Clock,
     href: 'https://cepre-frontend.vercel.app/',
     color: 'from-gray-700 to-gray-800',
