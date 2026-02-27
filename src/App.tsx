@@ -1,8 +1,6 @@
 import {
-  Users,
   Calendar,
   Headphones,
-  Clock,
   GraduationCap,
   ArrowRight,
 } from 'lucide-react';
