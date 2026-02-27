@@ -8,20 +8,20 @@ import {
 } from 'lucide-react';
 
 const systems = [
-  {
+  /*{
     title: 'Sistema de Recursos Humanos',
     description:
       'Gestión integral del personal y recursos humanos de la institución',
     icon: Users,
     href: 'https://swgirrhh-ceprunsa.vercel.app/',
     color: 'from-slate-800 to-slate-900',
-  },
+  },*/
   {
     title: 'Sistema de Gestion de Citas Psicológicas',
     description:
       'Administración y seguimiento de citas de atención psicológica',
     icon: Calendar,
-    href: 'https://gestor-citas-cpu-cq2026.vercel.app/',
+    href: 'https://gestor-citas-cpu-extra2026.vercel.app/',
     color: 'from-red-900 to-red-950',
   },
   {
@@ -32,18 +32,18 @@ const systems = [
     href: 'https://registro-atencion-cliente-cpu.vercel.app/',
     color: 'from-slate-700 to-slate-800',
   },
-  {
+  /*{
     title: 'SISPAD - Sistema de Supervisión y Planificación Académica Docente',
     description: 'Planificación, gestión y seguimiento de horarios académicos',
     icon: Clock,
     href: 'https://cepre-frontend.vercel.app/',
     color: 'from-gray-700 to-gray-800',
-  },
+  },*/
   {
     title: 'Sistema de Calificación Docente',
     description: 'Evaluación y seguimiento del desempeño docente institucional',
     icon: GraduationCap,
-    href: 'https://sistema-calificacion-docente-cq2026.vercel.app/',
+    href: 'https://sistema-calificacion-docente-extra.vercel.app/',
     color: 'from-red-800 to-red-900',
   },
 ];
